@@ -1,2 +1,2 @@
-# lilwindax-GameWorld_Database_Restructure_In_MySQL
-GameWorld Database Restructure &amp; basic Database Queries In MySQL
+# GameWorld Database Restructure & basic Dataset Queries in MySQL
+GameWorld Database Restructure & basic Database Queries In MySQL
