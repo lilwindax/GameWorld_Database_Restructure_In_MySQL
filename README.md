@@ -1,2 +1,10 @@
 # GameWorld Database Restructure & basic Dataset Queries in MySQL
-GameWorld Database Restructure & basic Database Queries In MySQL
+
+## Objective: 
+Restructure Game World dataset and perform basic dataset quires in MySQL 
+
+## Tools: 
+
+    - SQL Language 
+    - My SQL Community 
+    - Microsoft Excel 
